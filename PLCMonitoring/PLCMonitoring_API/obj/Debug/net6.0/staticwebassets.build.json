@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GZZQOvDtztklmvO5qQJAapLageespxDL2yGr8x5ylgs=",
+  "Source": "PLCMonitoring_API",
+  "BasePath": "_content/PLCMonitoring_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
